@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
     styleUrls: ['./lift-view.component.css']
 })
 export class LiftViewComponent {
-    
+    workoutName = 'test';
 }
